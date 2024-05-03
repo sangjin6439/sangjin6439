@@ -10,7 +10,7 @@
 </div>
 
 ## Blog 
-<a href="https://peppered-crib-94e.notion.site/dd4f424315d14f969927b8a58b8b3a41">
+<a href="https://devblog-sj.notion.site/dd4f424315d14f969927b8a58b8b3a41">
   <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white" />
 </a>
 
